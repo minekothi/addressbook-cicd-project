@@ -1,20 +1,20 @@
 11 feb 2026
 6 feb 2026
 16feb 2026
-20feb 2026aaaa
+20feb 2026 
 25 jan
 13 march month 
 11 march month 
 this is change 1
-i am learning devops
+i am learning devops 
 30 jan
 4thfeb
-hi sa
+hi dear
 
 hi this is akshat 
-this is my final repo adsadad
+this is my final repo added
 this is the update
-this is newipdate
+this is new update
 hi this is new change
 
 ddooiouo
